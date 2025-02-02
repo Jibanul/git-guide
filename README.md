@@ -1,4 +1,5 @@
 # Git Guide
+This Git repository serves as a quick reference for commonly used Git commands. It helps streamline workflow and reduces the need to search for commands repeatedly.
 
 ## Table of Contents
 
